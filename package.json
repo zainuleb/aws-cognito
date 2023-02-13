@@ -1,5 +1,5 @@
 {
-  "name": "aws-cognito-with-react",
+  "name": "cognito-signup",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
